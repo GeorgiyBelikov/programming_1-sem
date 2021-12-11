@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{ //сделал фигурную скобку с новой строки, так код выглядит более читаемым
     float b;
     float i;
 
